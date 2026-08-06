@@ -1,6 +1,6 @@
 
 
-Q.2 Write a Java program to demonstrate Has-A relationship. 
+Q.1 Write a Java program to demonstrate Has-A relationship. 
 - Solve this program through Constructor way. 
 - a) Create class Brand having variables (int bid, String brandName, String country) 
 - b) Create class Processor having variables (int pid, String type, Brand brand) 
