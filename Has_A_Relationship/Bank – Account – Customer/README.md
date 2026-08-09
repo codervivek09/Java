@@ -1,0 +1,11 @@
+Q 4. Bank – Account – Customer – Address (Has-A) 
+- Write a Java program to demonstrate Has-A relationship. 
+- Solve this program through Setter Getter way. 
+- a) Create class Address having variables (int aid, String city, String state) 
+- b) Create class Customer having variables (int cid, String name, Address address) 
+- c) Create class Account having variables (int accNo, String type, Customer customer) 
+- d) Create class Bank having variables (int bid, String bankName, Account account) 
+- e) Create Test class and In main method: 
+- • Create objects. 
+- • Set values using Setter methods 
+- • Display all details using Getter methods 
