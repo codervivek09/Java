@@ -9,7 +9,7 @@ public class Customer {
     public void setCID(int cid){
         this.cid = cid;
     }
-    public int tgetCID(){
+    public int getCID(){
         return cid;
     }
 
